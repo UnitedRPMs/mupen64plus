@@ -27,6 +27,7 @@ BuildRequires:	gzip
 BuildRequires:	glew-devel
 BuildRequires:  binutils
 BuildRequires:	nasm
+BuildRequires:  gcc-c++
 
 Requires:	SDL_ttf
 Requires:	mesa-libGLU
